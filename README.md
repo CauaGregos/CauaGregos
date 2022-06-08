@@ -1,7 +1,6 @@
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Cauã Nunes</h1>
+
 ### Hello there 👏
-
-
-### Me chamo Cauã Nunes Gregos
 
 - 👨‍💻 Hoje trabalho com servidores de FiveM fazendo freelancer
 - ☕ Estudo atualmente Java e Javascript
