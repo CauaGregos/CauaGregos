@@ -1,7 +1,7 @@
 ### Hello there 👏
 
 
-Me chamo Cauã Nunes Gregos
+### Me chamo Cauã Nunes Gregos
 
 - 👨‍💻 Hoje trabalho com servidores de FiveM fazendo freelancer
 - ☕ Estudo atualmente Java e Javascript
